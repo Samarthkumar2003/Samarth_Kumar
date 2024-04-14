@@ -17,8 +17,11 @@ LINKNEW.csv: Contains the token data of (LINK) ChainLink
 ETHNEW.csv: Contains the token data of (ETH) Ethereum
 
 instruction.py: Contains the instructions given to predict the data
+
 predictions_Samarth.py: Contains the model code to predict the data
+
 ReadMe.md: Contains the metadata and predictions screenshots of the file
+
 requirements.txt: Contains all the requierments used in the application
 
 ## Predictions
