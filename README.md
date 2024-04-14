@@ -2,7 +2,7 @@
  Cryptocurrency Price Prediction for Ethereum, Arbitrum and Chainlink
 
 ## Model Performance
-Avg R-squared (R2) Score: 0.9624576006246804
+## Avg R-squared (R2) Score: 0.9624576006246804
 
  ## Overview
 This repository contains code for building a linear regression model to predict future values of Ethereum, Arbitrum, and Chainlink cryptocurrency prices. The model is trained using historical price data and aims to forecast prices for the period from February 17th to February 25th.
