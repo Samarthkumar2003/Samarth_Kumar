@@ -4,6 +4,8 @@ Cryptocurrency Price Prediction
  ## Overview
 This repository contains code for building a linear regression model to predict future values of Ethereum, Arbitrum, and Chainlink cryptocurrency prices. The model is trained using historical price data and aims to forecast prices for the period from February 17th to February 25th.
 
+2 SAME FILES IN DIFFERENT FORMATS ARE UPLOADED: prediction_Samarth.py & prediction_Samarth.ipynb
+
 Prediction for Ethereum
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/114cc408-8368-4f59-af3a-1d65c88365b6)
 
