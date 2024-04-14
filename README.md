@@ -24,7 +24,7 @@ Prediction for Chainlink
 
 
 ## Data
-The historical price data for Ethereum, Arbitrum, and Chainlink is sourced from [insert data source]. The dataset includes daily price records along with relevant features such as volume and market sentiment indicators.
+The historical price data for Ethereum, Arbitrum, and Chainlink is sourced from Coingiko, CoinMarketCap and Yahoo finance. The dataset includes daily price records along with relevant features such as volume and market sentiment indicators.
 
 ## Dependencies
 - Python 3.x
