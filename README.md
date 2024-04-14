@@ -1,4 +1,4 @@
-## Cryptocurrency Price Prediction
+## 📈 Cryptocurrency Price Prediction
  Cryptocurrency Price Prediction for Ethereum, Arbitrum and Chainlink
 
 ## Model Performance
