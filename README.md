@@ -25,7 +25,7 @@ ReadMe.md: Contains the metadata and predictions screenshots of the file
 
 requirements.txt: Contains all the requierments used in the application
 
-## Predictions
+## 📈 Predictions
 Prediction for Ethereum
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/114cc408-8368-4f59-af3a-1d65c88365b6)
