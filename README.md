@@ -30,7 +30,8 @@ Prediction for Ethereum
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/114cc408-8368-4f59-af3a-1d65c88365b6)
 
-![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/c6c4ca70-b286-40ea-a745-38363645f3fb)
+![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/a1bccb54-bc14-4e87-8803-3f17ddf6896c)
+
 
 
 
@@ -38,7 +39,8 @@ Prediction for Arbitrum
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/159b20c4-b521-414c-8ca2-3fb5dcdc2342)
 
-![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/ab42b6d4-fece-4b03-97e4-0bdeec6f2279)
+![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/6e498976-32de-4765-97da-414a3503cbd0)
+
 
 
 
@@ -46,7 +48,7 @@ Prediction for Chainlink
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/8937403a-cc09-41cc-86b9-508c4b9f7250)
 
-![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/7c1e0393-41c3-4ac2-b25c-0c4fcd4e5b82)
+![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/86178578-566a-4787-8d09-22c3f8c1742c)
 
 
 ## Data
