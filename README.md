@@ -39,7 +39,8 @@ Prediction for Arbitrum
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/159b20c4-b521-414c-8ca2-3fb5dcdc2342)
 
-![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/6e498976-32de-4765-97da-414a3503cbd0)
+![image](https://github.com/Samarthkr2003/Samarth_Kumar/assets/89212505/4403fffb-782f-44f5-b4ed-de0dd28bd024)
+
 
 
 
