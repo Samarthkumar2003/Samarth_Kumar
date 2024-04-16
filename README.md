@@ -30,7 +30,8 @@ Prediction for Ethereum
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/114cc408-8368-4f59-af3a-1d65c88365b6)
 
-![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/a1bccb54-bc14-4e87-8803-3f17ddf6896c)
+![image](https://github.com/Samarthkr2003/Samarth_Kumar/assets/89212505/474918fa-4554-4ae9-81f3-8bf20aa5bcc2)
+
 
 
 
@@ -40,7 +41,6 @@ Prediction for Arbitrum
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/159b20c4-b521-414c-8ca2-3fb5dcdc2342)
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/6e498976-32de-4765-97da-414a3503cbd0)
-
 
 
 
