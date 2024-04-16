@@ -30,8 +30,6 @@ Prediction for Ethereum
 
 ![image](https://github.com/Samarthkr2003/Predictions_Samarth/assets/89212505/114cc408-8368-4f59-af3a-1d65c88365b6)
 
-![image](https://github.com/Samarthkr2003/Samarth_Kumar/assets/89212505/474918fa-4554-4ae9-81f3-8bf20aa5bcc2)
-
 ![WhatsApp Image 2024-04-16 at 17 41 03_4b5da4b4](https://github.com/Samarthkr2003/Samarth_Kumar/assets/89212505/4668dfb1-b8f1-42b2-959f-d1657e55acbd)
 
 
